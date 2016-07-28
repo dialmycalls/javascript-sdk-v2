@@ -138,7 +138,7 @@
    */
   exports.prototype['machine_recording_id'] = undefined;
   /**
-   * When the broadcast should be sent.
+   * When the broadcast should be sent. (Ex: 2016-07-25T12:00:00+0000)
    * @member {String} send_at
    */
   exports.prototype['send_at'] = undefined;
